@@ -1,0 +1,4 @@
+*.out
+/test
+/venv
+/.idea
